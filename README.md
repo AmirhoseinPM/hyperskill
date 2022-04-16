@@ -1,2 +1,2 @@
-# hyperskill
+# simple project
 loan calculator CLI
